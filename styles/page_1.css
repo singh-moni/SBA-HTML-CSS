@@ -1,0 +1,20 @@
+header {font-size:xx-large;
+    font-weight:bolder;
+color: rgb(10, 9, 9);}
+
+
+.header {
+    display: inline-flexbox;
+    padding: 60px;
+    text-align: center;
+    font-size:larger ;
+    background: #0c9c2b;
+    color: rgb(66, 64, 64);
+  }
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #7c7b7b;
+  }
+  
+  
