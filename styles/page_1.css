@@ -12,9 +12,26 @@ color: rgb(10, 9, 9);}
     color: rgb(66, 64, 64);
   }
   .footer {
-    padding: 20px;
+    padding: 1%;
     text-align: center;
-    background: #7c7b7b;
+    background: #c0f56bd3;
   }
   
+  .navbar {
+    display: flex;
+    background-color: #333;
+  }
   
+  /* Style the navigation bar links */
+  .navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  /* Change color on hover */
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
